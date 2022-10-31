@@ -7,4 +7,4 @@ Script will open the url in the chromium browser then scroll to the bottom to ca
 Afterwards it parses the html source code and retrieves video titles and individual video urls. 
 Videos will then be downloaded using the 'youtube_dl' library.
 
-The metadata of the downloaded audio files can then be customized using the GUI from my other repository [GUI set metadata of mp3 files](https://github.com/RichardStelzer/set-metadata-of-mp3-files)
+The metadata of the downloaded audio files can then be customized using the GUI from my other repository [GUI set metadata of mp3 files](https://github.com/RichardStelzer/set-metadata-of-mp3-files).
